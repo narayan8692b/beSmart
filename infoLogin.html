@@ -1,0 +1,43 @@
+<html>
+<head>
+    <script type = "text/javascript">
+ function writefilefun() {
+	alert('gototo');
+
+	var chkbox = "vehicle[]";
+	var chkbooxes = document.getElementsByName(chkbox);
+	var chkboxescheckednew = [];
+
+	for(var i = 0; i<chkbooxes.length ; i++){
+		if (chkbooxes[i].checked)
+		{
+			chkboxescheckednew.push(chkbooxes[i].value);
+		}
+	}
+alert('arr: ' + chkboxescheckednew );
+
+	//var filepath="D:/abcqw.txt";
+	//var txtFile = new File(filepath);
+	//alert('txtFile: ' + filepath);
+	//txtFile.open("w"); //
+	//txtFile.writeln('ASDFFG');
+	//txtFile.close();
+
+
+	set fso = CreateObject("Scripting.FileSystemObject");
+    set s = fso.CreateTextFile("D:/abcqw.txt", True);
+    s.writeline("HI");
+    s.writeline("Bye");
+    s.writeline("-----------------------------");
+    s.Close();
+
+}
+</script>
+</head>
+<body>
+<input type="checkbox" name="vehicle[]" value="Bike"> I have a bike<br>
+<input type="checkbox" name="vehicle[]" value="Car"> I have a car<br>
+<!-- <input type="button" value="Submit" onclick="writefilefun()"/>-->
+<input id="clickMe" type="button" value="clickme" onclick="writefilefun();" />
+</body>
+</html>
