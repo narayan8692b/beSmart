@@ -1,0 +1,211 @@
+[
+    {
+        "Date": "Mar 22",
+        "Day": "Fri",
+        "Match": "1st Match",
+        "Team 1": "Royal Challengers Bengaluru",
+        "Team 2": "Chennai Super Kings",
+        "Venue": "MA Chidambaram Stadium, Chennai",
+        "Result": "Chennai Super Kings won by 6 wkts",
+        "Local Time": "08:00 PM",
+        "GMT Time": "02:30 PM"
+    },
+    {
+        "Date": "Mar 23",
+        "Day": "Sat",
+        "Match": "2nd Match",
+        "Team 1": "Delhi Capitals",
+        "Team 2": "Punjab Kings",
+        "Venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur, Chandigarh",
+        "Result": "Punjab Kings won by 4 wkts",
+        "Local Time": "03:30 PM",
+        "GMT Time": "10:00 AM"
+    },
+    {
+        "Date": "Mar 23",
+        "Day": "Sat",
+        "Match": "3rd Match",
+        "Team 1": "Kolkata Knight Riders",
+        "Team 2": "Sunrisers Hyderabad",
+        "Venue": "Eden Gardens, Kolkata",
+        "Result": "Kolkata Knight Riders won by 4 runs",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    },
+    {
+        "Date": "Mar 24",
+        "Day": "Sun",
+        "Match": "4th Match",
+        "Team 1": "Rajasthan Royals",
+        "Team 2": "Lucknow Super Giants",
+        "Venue": "Sawai Mansingh Stadium, Jaipur",
+        "Result": "Rajasthan Royals won by 20 runs",
+        "Local Time": "03:30 PM",
+        "GMT Time": "10:00 AM"
+    },
+    {
+        "Date": "Mar 24",
+        "Day": "Sun",
+        "Match": "5th Match",
+        "Team 1": "Gujarat Titans",
+        "Team 2": "Mumbai Indians",
+        "Venue": "Narendra Modi Stadium, Ahmedabad",
+        "Result": "Gujarat Titans won by 6 runs",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    },
+    {
+        "Date": "Mar 25",
+        "Day": "Mon",
+        "Match": "6th Match",
+        "Team 1": "Royal Challengers Bengaluru",
+        "Team 2": "Punjab Kings",
+        "Venue": "M.Chinnaswamy Stadium, Bengaluru",
+        "Result": "Match starts at Mar 25, 14:00 GMT",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    },
+    {
+        "Date": "Mar 26",
+        "Day": "Tue",
+        "Match": "7th Match",
+        "Team 1": "Chennai Super Kings",
+        "Team 2": "Gujarat Titans",
+        "Venue": "MA Chidambaram Stadium, Chennai",
+        "Result": "Match starts at Mar 26, 14:00 GMT",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    },
+    {
+        "Date": "Mar 27",
+        "Day": "Wed",
+        "Match": "8th Match",
+        "Team 1": "Sunrisers Hyderabad",
+        "Team 2": "Mumbai Indians",
+        "Venue": "Rajiv Gandhi International Stadium, Hyderabad",
+        "Result": "Match starts at Mar 27, 14:00 GMT",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    },
+    {
+        "Date": "Mar 28",
+        "Day": "Thu",
+        "Match": "9th Match",
+        "Team 1": "Rajasthan Royals",
+        "Team 2": "Delhi Capitals",
+        "Venue": "Sawai Mansingh Stadium, Jaipur",
+        "Result": "Match starts at Mar 28, 14:00 GMT",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    },
+    {
+        "Date": "Mar 29",
+        "Day": "Fri",
+        "Match": "10th Match",
+        "Team 1": "Royal Challengers Bengaluru",
+        "Team 2": "Kolkata Knight Riders",
+        "Venue": "M.Chinnaswamy Stadium, Bengaluru",
+        "Result": "Match starts at Mar 29, 14:00 GMT",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    },
+    {
+        "Date": "Mar 30",
+        "Day": "Sat",
+        "Match": "11th Match",
+        "Team 1": "Lucknow Super Giants",
+        "Team 2": "Punjab Kings",
+        "Venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+        "Result": "Match starts at Mar 30, 14:00 GMT",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    },
+    {
+        "Date": "Mar 31",
+        "Day": "Sun",
+        "Match": "12th Match",
+        "Team 1": "Gujarat Titans",
+        "Team 2": "Sunrisers Hyderabad",
+        "Venue": "Narendra Modi Stadium, Ahmedabad",
+        "Result": "Match starts at Mar 31, 10:00 GMT",
+        "Local Time": "03:30 PM",
+        "GMT Time": "10:00 AM"
+    },
+    {
+        "Date": "Mar 31",
+        "Day": "Sun",
+        "Match": "13th Match",
+        "Team 1": "Delhi Capitals",
+        "Team 2": "Chennai Super Kings",
+        "Venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+        "Result": "Match starts at Mar 31, 14:00 GMT",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    },
+    {
+        "Date": "Apr 01",
+        "Day": "Mon",
+        "Match": "14th Match",
+        "Team 1": "Mumbai Indians",
+        "Team 2": "Rajasthan Royals",
+        "Venue": "Wankhede Stadium, Mumbai",
+        "Result": "Match starts at Apr 01, 14:00 GMT",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    },
+    {
+        "Date": "Apr 02",
+        "Day": "Tue",
+        "Match": "15th Match",
+        "Team 1": "Royal Challengers Bengaluru",
+        "Team 2": "Lucknow Super Giants",
+        "Venue": "M.Chinnaswamy Stadium, Bengaluru",
+        "Result": "Match starts at Apr 02, 14:00 GMT",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    },
+    {
+        "Date": "Apr 03",
+        "Day": "Wed",
+        "Match": "16th Match",
+        "Team 1": "Delhi Capitals",
+        "Team 2": "Kolkata Knight Riders",
+        "Venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+        "Result": "Match starts at Apr 03, 14:00 GMT",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    },
+    {
+        "Date": "Apr 04",
+        "Day": "Thu",
+        "Match": "17th Match",
+        "Team 1": "Gujarat Titans",
+        "Team 2": "Punjab Kings",
+        "Venue": "Narendra Modi Stadium, Ahmedabad",
+        "Result": "Match starts at Apr 04, 14:00 GMT",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    },
+    {
+        "Date": "Apr 05",
+        "Day": "Fri",
+        "Match": "18th Match",
+        "Team 1": "Sunrisers Hyderabad",
+        "Team 2": "Chennai Super Kings",
+        "Venue": "Rajiv Gandhi International Stadium, Hyderabad",
+        "Result": "Match starts at Apr 05, 14:00 GMT",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    },
+    {  
+        "Day": "Sat",
+        "Match": "19th Match",
+        "Team 1": "Rajasthan Royals",
+        "Team 2": "Royal Challengers Bengaluru",
+        "Venue": "Sawai Mansingh Stadium, Jaipur",
+        "Result": "Match starts at Apr 06, 14:00 GMT",
+        "Local Time": "07:30 PM",
+        "GMT Time": "02:00 PM"
+    }
+
+]
